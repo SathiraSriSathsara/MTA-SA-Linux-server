@@ -15,7 +15,7 @@ sudo pip install gdown
 cd /home
 sudo mkdir servers
 cd /home/servers
-sudo gdown --id 1JxRx_QpS3KOfFrmfOeinUYFYyFP15mn7
+sudo gdown --id 1hnkpu16qjsOrdScnmeG5Dm3zIimMGuvd
 sudo unzip MTA.zip
 sudo rm MTA.zip
 cd /home/servers/multitheftauto_linux_x64
