@@ -10,8 +10,8 @@ This script automates the process of downloading and installing the MTA-SA (Mult
 
 ## Usage
 
-1. Copy the `run.sh` script to your Linux machine.
-2. Open a terminal and navigate to the directory containing the script.
+1. Clone respiratory to your Linux machine `git clone https://github.com/SathiraSriSathsara/MTA-SA-Linux-server.git`.
+2. `cd MTA-SA-Linux-server`.
 3. Make the script file executable with the command: `chmod +x run.sh`.
 4. Run the script: `./run.sh`.
 5. Follow the on-screen instructions to complete the installation.
