@@ -21,7 +21,7 @@ sudo rm MTA.zip
 cd /home/servers/multitheftauto_linux_x64
 
 # Make the server binary executable
-chmod +x mtasa-server
+chmod +x mtasa-server64
 
 # Start the server to generate the default configuration files
 ./mta-server64
