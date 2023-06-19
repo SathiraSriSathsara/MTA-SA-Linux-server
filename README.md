@@ -20,4 +20,10 @@ This script automates the process of downloading and installing the MTA-SA (Mult
 
 This script is created by Sathira Sri Sathsara.
 
+<br>
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
 
